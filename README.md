@@ -2,7 +2,7 @@
 
 Nova M Music Studio är en fiktiv musikstudio som erbjuder specialskriven musik för video, digitalt innehåll och visuella projekt.
 
-Webbplatsen är skapad som projektuppgift i kursen Webbutveckling DDT224G vid Mittuniversitetet. Målet har varit att bygga en komplett och responsiv webbplats med tydlig struktur, en visuellt tilltalande och enhetlig stil samt JavaScript-funktioner som gör sidan mer interaktiv.
+Webbplatsen är skapad som projektuppgift i kursen Webbutveckling DT224G vid Mittuniversitetet. Målet har varit att bygga en komplett och responsiv webbplats med tydlig struktur, en visuellt tilltalande och enhetlig stil samt JavaScript-funktioner som gör sidan mer interaktiv.
 
 ## Om webbplatsen
 
